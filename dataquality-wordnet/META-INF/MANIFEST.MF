@@ -12,8 +12,8 @@ Export-Package: edu.mit.jwi;version="2.2.3",
  edu.mit.jwi.morph;version="2.2.3",
  org.talend.dataquality.wordnet
 Bundle-ActivationPolicy: lazy
-Require-Bundle: slf4j.api,
- org.junit
+Require-Bundle: org.junit,
+ org.apache.log4j
 Bundle-ClassPath: .,
  lib/jwi-2.2.3.jar
 Eclipse-BundleShape: dir
