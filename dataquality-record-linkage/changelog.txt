@@ -1,4 +1,4 @@
-V3.1.2 (in development)
+V3.1.2 2016-05-04 (for Studio 6.2.0)
     - TDQ-11779 fixed t-swoosh algorithm in the tMatchgroup components with multi-pass mode can not get correctly group quality value
     - TDQ-11949 for the match rule which use the custom type algorithm, we will use the threshold and weight from UI
 

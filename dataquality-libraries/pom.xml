@@ -21,11 +21,11 @@
 		<dataquality.libraries.snapshot.version>1.4.5-SNAPSHOT</dataquality.libraries.snapshot.version>
 		<dataquality.libraries.released.version>1.4.4</dataquality.libraries.released.version>
 
-		<dataquality.record.linkage.snapshot.version>3.1.2-SNAPSHOT</dataquality.record.linkage.snapshot.version>
-		<dataquality.record.linkage.released.version>3.1.1</dataquality.record.linkage.released.version>
+		<dataquality.record.linkage.snapshot.version>3.1.3-SNAPSHOT</dataquality.record.linkage.snapshot.version>
+		<dataquality.record.linkage.released.version>3.1.2</dataquality.record.linkage.released.version>
 
-		<dataquality.sampling.snapshot.version>2.2.1-SNAPSHOT</dataquality.sampling.snapshot.version>
-		<dataquality.sampling.released.version>2.2.0</dataquality.sampling.released.version>
+		<dataquality.sampling.snapshot.version>2.2.2-SNAPSHOT</dataquality.sampling.snapshot.version>
+		<dataquality.sampling.released.version>2.2.1</dataquality.sampling.released.version>
 
 		<dataquality.standardization.snapshot.version>3.1.1-SNAPSHOT</dataquality.standardization.snapshot.version>
 		<dataquality.standardization.released.version>3.1.0</dataquality.standardization.released.version>
