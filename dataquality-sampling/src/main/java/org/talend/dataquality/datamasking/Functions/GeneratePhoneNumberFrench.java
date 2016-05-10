@@ -27,8 +27,8 @@ public class GeneratePhoneNumberFrench extends Function<String> implements Seria
     @Override
     protected String doGenerateMaskedField(String str) {
         StringBuilder result = new StringBuilder("+33 "); //$NON-NLS-1$
-        result.append(rnd.nextInt(5) + 1);
-        for (int i = 0; i < 9; ++i) {
+        result.append(rnd.nextInt(9) + 1);
+        for (int i = 0; i < 8; i++) {
             result.append(rnd.nextInt(9));
         }
         return result.toString();
