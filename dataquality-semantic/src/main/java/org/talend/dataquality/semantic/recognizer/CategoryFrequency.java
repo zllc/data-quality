@@ -64,7 +64,8 @@ public class CategoryFrequency {
 
         CategoryFrequency that = (CategoryFrequency) o;
 
-        return !(this.getCategoryId() != null ? !this.getCategoryId().equals(that.getCategoryId()) : that.getCategoryId() != null);
+        return !(this.getCategoryId() != null ? !this.getCategoryId().equals(that.getCategoryId())
+                : that.getCategoryId() != null);
 
     }
 
